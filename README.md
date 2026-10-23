@@ -40,11 +40,4 @@ flutter run
 
 3. Preencha os dois investimentos e pressione **Calcular comparação**.
 
-## Roteiro sugerido para o vídeo
 
-1. Apresente a tela inicial e os campos solicitados.
-2. Informe valores diferentes para os dois investimentos.
-3. Toque em **Calcular comparação**.
-4. Explique o montante final, o rendimento e a evolução mensal.
-5. Mostre a mensagem que aponta o investimento vencedor.
-6. Use **Nova simulação** para demonstrar a navegação de volta ao formulário.
